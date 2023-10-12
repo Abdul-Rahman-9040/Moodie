@@ -28,12 +28,13 @@ Moodie se­rves as a powerful sentime­nt analysis tool specifically designed fo
 - Internet connection (for Reddit API access)
 
   # How to run this project
-  -Open terminal ,run this command
+  - Open terminal ,run this command 
 ```bash
 npm run dev
 ```
--this runs the frontend application
+- this runs the frontend application
 - now to run backend application,open new terminal and run this command
 ```bash
 npm start
 ```
+- this runs backend application
