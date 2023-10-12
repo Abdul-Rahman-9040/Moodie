@@ -38,3 +38,9 @@ npm run dev
 npm start
 ```
 - this runs backend application
+- Now copy the url in your web browser
+```bash
+ http://localhost:5173/
+```
+- It will run your project
+
