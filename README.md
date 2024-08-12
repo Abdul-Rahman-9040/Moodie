@@ -16,7 +16,7 @@ Moodie se­rves as a powerful sentime­nt analysis tool specifically designed fo
 
 **Front End :** HTML,CSS,JS
 
-**Backend :** Python,node JS
+**Backend :** Python,nodejs
 
 **Frame Work :** Flask
 
